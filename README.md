@@ -14,6 +14,8 @@
 
 #### **🔗 Direct Video Link**: [https://youtu.be/pyQnDGyDqqY](https://youtu.be/pyQnDGyDqqY)
 
+#### **🔗 Live Link **: [http://http://20.199.80.153/](http://http://20.199.80.153/)
+
 **🎯 Video Showcases:**
 - ✅ **Complete working project demonstration** (when it was functioning)
 - ✅ **Live Azure deployment** in action
